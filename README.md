@@ -1,2 +1,2 @@
-# Get-chromepass
+# get-chromepass
 Sends local Windows chrome password and username to server
