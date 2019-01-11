@@ -1,2 +1,7 @@
 # get-chromepass
-Sends local Windows chrome password and username to server
+Get Chrome passwords from Windows to Server
+
+# Path
+Chrome stores passwords in a SQL-Database
+
+```Appdata\Local\Google\Chrome\User Data\Default\Login Data```
